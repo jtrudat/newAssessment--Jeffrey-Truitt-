@@ -1,0 +1,29 @@
+/* add code here to make your image 300px square */
+img {
+  height: 300px;
+  width: 300px
+}
+
+/* add code here to change the color and font family of your name/title */
+h1 {
+  color: magenta;
+  font-family: 'Papyrus'
+  
+}
+
+/* Bonus: change the color of your list elements */
+
+#itemA {
+  color: red;
+  font-family: 'Copperplate';
+}
+#itemB {
+  color: green;
+  font-family: 'Helvetica';
+  
+}
+#itemC {
+  color: blue;
+  font-family: 'Monaco';
+  font-weight: bolder
+}
